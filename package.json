@@ -83,7 +83,7 @@
   },
   "dependencies": {
     "bitcore-lib": "satoshilabs/bitcore-lib#8e2caed768aa269b433a14981f0e36c0838a3d91",
-    "bitcore-node": "satoshilabs/bitcore-node#56ddf566f89f419ab10e3a440d22b2d3fbe532f9",
+    "bitcore-node": "satoshilabs/bitcore-node#0990fbd6eb67cac6f75593e77fbb667eaee7a8fd",
     "insight-api": "satoshilabs/insight-api#afe31213df93c380a6ed855d561763a09c20560e",
     "insight-ui": "^0.4.0"
   },
