@@ -83,8 +83,8 @@
   },
   "dependencies": {
     "bitcore-lib": "satoshilabs/bitcore-lib#8e2caed768aa269b433a14981f0e36c0838a3d91",
-    "bitcore-node": "satoshilabs/bitcore-node#a52e34ad270c07b06dad3a3749aea72d3b5b75ec",
-    "insight-api": "satoshilabs/insight-api#afe31213df93c380a6ed855d561763a09c20560e",
+    "bitcore-node": "satoshilabs/bitcore-node#d5652bd16295c3206dddac9759a40f99b7515113",
+    "insight-api": "satoshilabs/insight-api#7b64cb25003e243ee3b605241a92b1613878494c",
     "insight-ui": "^0.4.0"
   },
   "license": "MIT",
