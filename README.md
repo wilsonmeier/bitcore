@@ -11,7 +11,7 @@ What is also added is support for new smart fees; `/utils/estimatesmartfee?nbBlo
 
 We do not version Bitcore here, either for mainnet or for the forks; we are using https://github.com/satoshilabs/bitcore-deb to build debian packages, which are versioned, for all the coins. So this repo might seem a little chaotic, but we are pinning commit hashes for various altcoins in the bitcore-deb repo.
 
-Bitpay's Bitcore has diverged from our code with their recent rewrites and refactors (for example, added bcoin for transaction parsing); we do not plan to merge the big refactors back here.
+Bitpay's Bitcore has diverged from our code with their recent rewrites and refactors (for example, added bcoin for transaction parsing); we do not plan to merge the big refactors back here. (see https://github.com/bitpay/bitcore )
 
 Following is original Bitcore readme.
 
