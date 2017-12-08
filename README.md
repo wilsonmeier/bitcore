@@ -1,7 +1,7 @@
 Bitcore
 =======
 
-This is SatoshiLabs fork of Bitpay's Bitcore that uses Bitcoin 0.15.0. It has a limited segwit support.
+This is SatoshiLabs fork of Bitpay's Bitcore that uses Bitcoin 0.15.0. It has a limited segwit support. We also have separate branches for some Bitcoin forks (UASF, 2x, Gold, Cash).
 
 We (SatoshiLabs) are not promising to keep these forks "alive", updated and maintained, long-term. For that reason, they are not pushed into NPM, just on github.
 
