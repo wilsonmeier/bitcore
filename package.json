@@ -85,7 +85,7 @@
     "bitcore-lib": "satoshilabs/bitcore-lib#8e2caed768aa269b433a14981f0e36c0838a3d91",
     "bitcore-node": "satoshilabs/bitcore-node#da993b56c260448b6737c82ceff39ec211256e8d",
     "insight-api": "satoshilabs/insight-api#6ae2f7bf0866111da1d49a9cd1df2f6e0eddec89",
-    "insight-ui": "satoshilabs/insight#7e180d0036e457d6681523fdfd02b3754cb2fb25"
+    "insight-ui": "satoshilabs/insight#e66fafe700f97e2d635dddce605e52a708fd6bdb"
   },
   "license": "MIT",
   "devDependencies": {
