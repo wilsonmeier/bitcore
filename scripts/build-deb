@@ -92,6 +92,6 @@ log_title "Building Debian package"
 dpkg-deb -Z gzip --verbose --build "$deb_dir"
 
 log_title "Signing Debian package"
-dpkg-sig --sign h4x3rotab "${deb_dir}.deb"
+dpkg-sig --sign builder "${deb_dir}.deb"
 
 echo -e "Success.\n"
