@@ -89,7 +89,7 @@
     "bitcore-lib": "BTCGPU/bitcore-lib#1201a48148d23a5ce8d03cd3d7bd067d09e52a10",
     "bitcore-node": "BTCGPU/bitcore-node#9ee40b5fffd57ff0abbcabfb88d150402e244fa4",
     "insight-api": "BTCGPU/insight-api#69dca364ed492b906d7ba6f26dc353599540dc3c",
-    "insight-ui": "BTCGPU/insight#603e261133fb8cdbc48d522367d84c66f61cbcbd"
+    "insight-ui": "BTCGPU/insight#09eea6a220386a3b44283e4d46e461dbef989557"
   },
   "license": "MIT",
   "devDependencies": {
