@@ -1,7 +1,7 @@
 {
   "name": "bitcore",
   "version": "4.1.0",
-  "description": "A platform to build bitcoin and blockchain-based applications.",
+  "description": "A platform to build bitcoin gold and blockchain-based applications.",
   "author": "BitPay <dev@bitpay.com>",
   "main": "index.js",
   "scripts": {
@@ -56,6 +56,10 @@
     {
       "name": "Wei Lu",
       "email": "luwei.here@gmail.com"
+    },
+    {
+      "name": "The Bitcoin Gold Developers",
+      "email": "support@bitcoingold.org"
     }
   ],
   "keywords": [
@@ -76,16 +80,16 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/bitpay/bitcore.git"
+    "url": "https://github.com/BTCGPU/bitcore.git"
   },
   "browser": {
     "request": "browser-request"
   },
   "dependencies": {
-    "bitcore-lib": "satoshilabs/bitcore-lib#4ed1e661655c4033fcfa74441ca0a94c0cc46c97",
-    "bitcore-node": "satoshilabs/bitcore-node#af453aeca9a7a0107848ef558a800a7b0077f127",
-    "insight-api": "satoshilabs/insight-api#f54c92884705a4fba87a30f6cd043c6f2ccb1464",
-    "insight-ui": "satoshilabs/insight#0eee359b3d951c749fc3078f0118669be3bb46fb"
+    "bitcore-lib": "BTCGPU/bitcore-lib#1201a48148d23a5ce8d03cd3d7bd067d09e52a10",
+    "bitcore-node": "BTCGPU/bitcore-node#9ee40b5fffd57ff0abbcabfb88d150402e244fa4",
+    "insight-api": "BTCGPU/insight-api#69dca364ed492b906d7ba6f26dc353599540dc3c",
+    "insight-ui": "BTCGPU/insight#603e261133fb8cdbc48d522367d84c66f61cbcbd"
   },
   "license": "MIT",
   "devDependencies": {
