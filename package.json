@@ -87,7 +87,7 @@
   },
   "dependencies": {
     "bitcore-lib": "BTCGPU/bitcore-lib#1201a48148d23a5ce8d03cd3d7bd067d09e52a10",
-    "bitcore-node": "wilsonmeier/bitcore-node#b0d543b12a16b861e1af7e1dc34bd23cdca2089a",
+    "bitcore-node": "wilsonmeier/bitcore-node#18c7de38910d8a55760f01186a7a83f9bc41541f",
     "insight-api": "BTCGPU/insight-api#69dca364ed492b906d7ba6f26dc353599540dc3c",
     "insight-ui": "BTCGPU/insight#09eea6a220386a3b44283e4d46e461dbef989557"
   },
